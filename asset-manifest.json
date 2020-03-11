@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Wheater-app/static/css/main.6111b159.chunk.css",
+    "main.css": "/Wheater-app/static/css/main.c7a22cfd.chunk.css",
     "main.js": "/Wheater-app/static/js/main.632f7f83.chunk.js",
     "main.js.map": "/Wheater-app/static/js/main.632f7f83.chunk.js.map",
     "runtime-main.js": "/Wheater-app/static/js/runtime-main.75c50a51.js",
@@ -8,15 +8,15 @@
     "static/js/2.1a24de09.chunk.js": "/Wheater-app/static/js/2.1a24de09.chunk.js",
     "static/js/2.1a24de09.chunk.js.map": "/Wheater-app/static/js/2.1a24de09.chunk.js.map",
     "index.html": "/Wheater-app/index.html",
-    "precache-manifest.92c3fe9f84258b474405b6436229b1a7.js": "/Wheater-app/precache-manifest.92c3fe9f84258b474405b6436229b1a7.js",
+    "precache-manifest.05844a75382c468b4fef737186a27f83.js": "/Wheater-app/precache-manifest.05844a75382c468b4fef737186a27f83.js",
     "service-worker.js": "/Wheater-app/service-worker.js",
-    "static/css/main.6111b159.chunk.css.map": "/Wheater-app/static/css/main.6111b159.chunk.css.map",
+    "static/css/main.c7a22cfd.chunk.css.map": "/Wheater-app/static/css/main.c7a22cfd.chunk.css.map",
     "static/js/2.1a24de09.chunk.js.LICENSE.txt": "/Wheater-app/static/js/2.1a24de09.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.75c50a51.js",
     "static/js/2.1a24de09.chunk.js",
-    "static/css/main.6111b159.chunk.css",
+    "static/css/main.c7a22cfd.chunk.css",
     "static/js/main.632f7f83.chunk.js"
   ]
 }
