@@ -1,1 +1,2 @@
-# Wheater-app
+
+Simple wheater aplication build in React. 
