@@ -1,0 +1,86 @@
+.wheater {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 60%;
+    height: 300px;
+    padding: 40px;
+    font-size: 16px;
+    border-radius: 50px;
+    background-color: #F6F5FA;
+    box-shadow: 10px 10px 10px 0px #bbb;
+}
+
+.wheater_iconHolder {
+    display: flex;
+    flex-basis: 40%;
+    justify-content: center;
+    align-items: center;
+}
+
+.wheater_icon {
+    height: 5.5em;
+}
+
+.wheater_mainDetails {
+    display: flex;
+    flex-basis: 40%;
+    flex-wrap: wrap;
+    letter-spacing: 1px;
+    text-align: center;
+    justify-content: center;
+    font-size: 1em;
+}
+
+.wheater_country {
+    font-size: 1.15em;
+}
+
+.wheater_temp {
+    flex-basis: 100%;
+    font-size: 3em;
+    padding: 0em 0 0;
+    line-height: 1em;
+}
+
+.wheater_tempMin,
+.wheater_tempMax {
+    flex-basis: 35%;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 2em;
+}
+
+.wheater_description {
+    flex-basis: 100%;
+    font-size: 1.5em;
+    text-transform: capitalize;
+    line-height: 1em;
+
+}
+
+.wheater_date {
+    flex-basis: 100%;
+    font-size: .8em;
+    color: #333;
+}
+
+.wheater_error {
+    align-self: center;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.wheater_error span {
+    font-weight: bold;
+}
+
+
+@media only screen and (min-width: 600px) {
+    .wheater {
+        min-height: 400px;
+        max-height: 500px;
+        max-width: 350px;
+        font-size: 20px;
+    }
+}

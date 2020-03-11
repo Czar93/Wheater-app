@@ -1,0 +1,17 @@
+.footer {
+    width: 50%;
+    max-width: 265px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    color: gray;
+    font-size: 1.8em;
+
+}
+
+.footer_text::before {
+    content: "";
+    display: block;
+    height: 2px;
+    background-color: #ddd;
+}

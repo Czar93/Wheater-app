@@ -1,0 +1,35 @@
+.city {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    width: 50%;
+    max-width: 265px;
+    text-transform: uppercase;
+
+}
+
+.city_label {
+    display: none;
+    margin-bottom: 5px;
+    font-size: 18px;
+    color: gray;
+}
+
+.city_input {
+    padding: 10px 0;
+    background-color: #fff;
+    font-size: 20px;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: #ddd
+}
+
+.city_input:focus {
+    border-color: black
+}
+
+@media only screen and (min-width: 400px) {
+    .city_label {
+        display: block;
+    }
+}
